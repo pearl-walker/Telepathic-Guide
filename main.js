@@ -59,7 +59,7 @@ const makeLine = () => {
 
 // Run poem
 const poem = () => {
-    setInterval(makeLine, 60);
+    setInterval(makeLine, 600);
 
 }
 
